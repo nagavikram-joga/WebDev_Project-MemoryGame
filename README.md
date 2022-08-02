@@ -2,7 +2,7 @@
 
 A Simple Online memory matching game made using HTML,CSS &amp; JavaScript
 
-## <b> [Click here to Play the GAME!!](https://nmnkmr.github.io/Project-MemoryCard/)
+## <b> [Click here to Play the GAME!!](https://github.com/nagavikram-joga/WebD-Project-MemoryGame)
 
 
 <br>
