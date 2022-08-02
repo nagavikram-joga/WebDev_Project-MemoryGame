@@ -1,6 +1,6 @@
 # WebDevelopment_Project-Memory_Game
 
-A Simple Online memory matching game made using HTML,CSS &amp; JavaScript
+A Simple Online memory matching game made using HTML , CSS &amp; JavaScript
 
 ## <b> [Click here to Play the GAME!!](https://nagavikram-joga.github.io/WebDev_Project-MemoryGame/)
 
