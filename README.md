@@ -2,8 +2,7 @@
 
 A Simple Online memory matching game made using HTML,CSS &amp; JavaScript
 
-## <b> [Click here to Play the GAME!!](https://github.com/nagavikram-joga/WebDev_Project-MemoryGame.git)
-
+## <b> [Click here to Play the GAME!!](https://nagavikram-joga.github.io/WebDev_Project-MemoryGame/)
 
 <br>
 Here are some snapshots from game.
